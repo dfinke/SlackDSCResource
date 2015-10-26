@@ -1,7 +1,10 @@
 PowerShell Slack DSC Provider 
 -
 
-Running PowerShell v5.0? Grab it from the [PowerShell Gallery](https://www.powershellgallery.com/packages/SlackDSCResource/) `Install-Module -Name SlackDSCResource`
+Running PowerShell v5.0? Grab it from the [PowerShell Gallery](https://www.powershellgallery.com/packages/SlackDSCResource/) 
+
+`Install-Module -Name SlackDSCResource`
+
 
 ```powershell
 Configuration TrySlack {
