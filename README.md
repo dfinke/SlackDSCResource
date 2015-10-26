@@ -1,0 +1,2 @@
+PowerShell Slack DSC Provider 
+-
