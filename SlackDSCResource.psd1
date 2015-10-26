@@ -6,7 +6,7 @@ RootModule = 'SlackDscResource.psm1'
 DscResourcesToExport = 'SlackResource'
 
 # Version number of this module.
-ModuleVersion = '1.0'
+ModuleVersion = '1.1'
 
 # ID used to uniquely identify this module
 GUID = '4767e812-64e7-4cb7-b256-177ada033590'
